@@ -23,5 +23,9 @@ MITRE ATT&CK · MITRE ATLAS
 
 ### Elsewhere
 
-- [danielandrawis.com](https://danielandrawis.com)
 - [LinkedIn](https://www.linkedin.com/in/daniel-andrawis)
+
+<!-- Add back once there's a site behind it (target: Nov 2026):
+- [danielandrawis.com](https://danielandrawis.com)
+-->
+
