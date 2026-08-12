@@ -2,9 +2,9 @@
 
 Detection engineer working on the threat-intelligence side of AI misuse.
 
-I build detection content and tooling for how large language models get abused —
-prompt injection, jailbreaks, inference-API abuse, data extraction — mapped to
-MITRE ATLAS. Day job is detection engineering on Google SecOps and Elastic, with
+I build detection content and tooling for how large language models get abused 
+prompt injection, jailbreaks, inference-API abuse, data extraction (mapped to
+MITRE ATLAS). Day job is detection engineering on Google SecOps and Elastic, with
 security automation in Tines. Background in digital forensics and OSINT.
 
 Everything I publish is defensive: detection, analysis, and public-source
